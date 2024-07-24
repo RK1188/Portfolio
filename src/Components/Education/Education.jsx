@@ -81,7 +81,7 @@ import EducationCard from "../../assets/educationCard";
 
 function Education() {
   return (
-    <div className="container" id="Education">
+    <div className="container" id="education">
       <div className="wrapper">
         <div className="title">Education</div>
         <div className="desc">
