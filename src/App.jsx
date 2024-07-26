@@ -7,7 +7,6 @@ import MyWork from './Components/MyWorks/MyWork'
 import Contact from './Components/Contacts/Contact'
 import Footer from './Components/Footer/Footer'
 import Education from './Components/Education/Education'
-// import Skills from './Components/Skills/Skills'
 
 const App = () => {
   return (
